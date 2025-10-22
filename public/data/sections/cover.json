@@ -1,0 +1,307 @@
+{
+  "title": {
+    "locales": {
+      "fr": {
+        "title_short": "Salut !",
+        "title_short_nav": "À propos",
+        "title_long_prefix": "Salut...",
+        "title_long": "Je suis {{Vladimir Spirine !}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleInlineList",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "display_as_list_if_width_is_lower_than": 380
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Agen – Nouvelle-Acquitaine",
+          "link": {
+            "href": "",
+            "tooltipString": ""
+          },
+          "faIcon": "pi pi-map-marker"
+        },
+        {
+          "id": 2,
+          "label": "vladimir.spirine@ermitage47.cneap.fr",
+          "link": {
+            "href": "mailto:vladimir.spirine@ermitage47.cneap.fr",
+            "tooltipString": "email_me"
+          },
+          "faIcon": "fa-regular fa-envelope"
+        },
+        {
+          "id": 3,
+          "label": "@Farounaga",
+          "link": {
+            "href": "https://github.com/Farounaga",
+            "tooltipString": "see_on_github"
+          },
+          "faIcon": "fa-brands fa-github"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleText",
+      "locales": {
+        "fr": {
+          "title": "{{Un peu}} à propos de moi..."
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/pictures/about-texts-image-1.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "locales": {
+            "fr": {
+              "text": "<p>Je suis étudiant en <strong>BTS SIO SLAM</strong>, passionné par le développement, la cybersécurité et l'IA. J’apprends encore, mais j’aime expérimenter, comprendre comment les choses fonctionnent et créer des projets concrets en <strong>Python</strong> principalement.</p><p>En plus de mes projets personnels, j’ai travaillé en entreprise sur un outil d’<strong>analyse de tickets</strong> intégrant des éléments d’<strong>intelligence artificielle</strong>, d’<strong>automatisation</strong> et d’<strong>analyse vectorielle des données</strong>. Cette expérience m’a permis de découvrir le lien entre le code, la donnée et la prise de décision.</p><p>Je continue à apprendre chaque jour et je cherche à collaborer sur des projets simples mais motivants pour progresser et développer mes compétences.</p>"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "component": "ArticleTestimonials",
+      "locales": {
+        "fr": {
+          "title": "Témoignages de {{profésseurs}}"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "label": "Mme. Kepseu",
+          "link": {
+            "href": "https://linkedin.com",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/testimonial-person-female-1.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "locales": {
+            "fr": {
+              "title": "SLAM",
+              "text": "Les réalisations de Vladimir montrent un potentiel prometteur. Avec une volonté accrue et une attention particulière aux détails, il pourrait atteindre des résultats excellents."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "label": "M. Pitance",
+          "link": {
+            "href": "https://github.com",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/testimonial-person-male-1.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "locales": {
+            "fr": {
+              "title": "Cybersécurité",
+              "text": "Apprenant motivé et investi dans la matière."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "label": "Mme. Ford",
+          "link": {
+            "href": "",
+            "tooltipString": ""
+          },
+          "img": "images/pictures/testimonial-person-female-2.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "locales": {
+            "fr": {
+              "title": "Anglais",
+              "text": "Vladimir est excellent en anglais et travaille bien en classe."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "label": "M. Meghirbi",
+          "link": {
+            "href": "https://dribbble.com",
+            "tooltipString": "open_website"
+          },
+          "img": "images/pictures/testimonial-person-male-2.png",
+          "faIcon": "",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "locales": {
+            "fr": {
+              "title": "CEJM",
+              "text": "Bon travail."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "component": "ArticleInfoList",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "locales": {
+        "fr": {
+          "title": "Intérêts {{personnels}} "
+        }
+      },
+      "items": [
+        {
+          "id": 1,
+          "faIcon": "fa-solid fa-book",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Lecture}}",
+              "text": "Je lis beaucoup de livres fantastiques"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "faIcon": "fa-solid fa-music",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Musique}} & DJ",
+              "text": "Je crée de la musique et je mixe"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "faIcon": "fa-solid fa-chart-line",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Investissement}} & Crypto",
+              "text": "J'ai plus de 50 euros en BTC & ETH !"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "faIcon": "fa-solid fa-window-restore",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "locales": {
+            "fr": {
+              "title": "Conception de {{projets}}",
+              "text": "90%+ ne seront jamais aboutis"
+            }
+          }
+        },
+        {
+          "id": 5,
+          "img": "",
+          "faIcon": "fa-solid fa-gamepad",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Jeux}} vidéos",
+              "text": "Je joue parfois..."
+            }
+          }
+        },
+        {
+          "id": 6,
+          "faIcon": "fa-solid fa-robot",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": null,
+          "link": {
+            "href": null,
+            "tooltipString": null
+          },
+          "locales": {
+            "fr": {
+              "title": "Explorer l'{{IA}}",
+              "text": "J'adore utiliser l'IA pour differentes tâches"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": {
+    "locales": {
+      "fr": {
+        "title_short": "Contact",
+        "title_short_nav": "Contact",
+        "title_long_prefix": "N'hésitez pas à",
+        "title_long": "Me {{Contacter}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleContactForm",
+      "settings": {
+        "email_js_public_key": "tzObcsmOwHvPy6Rhp",
+        "email_js_service_id": "service_4h8g7vb",
+        "email_js_template_id": "template_react"
+      },
+      "locales": {
+        "fr": {
+          "contact_thank_you_title": "{{Merci}} pour le contact!",
+          "contact_thank_you_body": "Votre message a été reçu, et je vous contacterai bientôt. J'apprécie votre temps et j'ai hâte de discuter avec vous!",
+          "contact_thank_you_footer": "La réponse sera envoyée à votre adresse e-mail: {{$email}}",
+          "title": "Envoyez-moi un {{message}}"
+        }
+      },
+      "items": null
+    },
+    {
+      "id": 2,
+      "component": "ArticleInfoList",
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "locales": {
+        "fr": {
+          "title": "Ou si vous {{préférez}}..."
+        }
+      },
+      "items": [
+        {
+          "id": 1,
+          "faIcon": "fa-solid fa-user",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": "via Tox Chat",
+          "link": {
+            "href": "tox:7210C86A087036EE49C1EF644C34C211D2529499C516C27CA9745806D57355519F00FC16FF83",
+            "tooltipString": "call_me"
+          },
+          "locales": {
+            "fr": {
+              "title": "Tox"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "faIcon": "fa-solid fa-envelope",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": "dj9s0xc3a@mozmail.com",
+          "link": {
+            "href": "mailto:dj9s0xc3a@mozmail.com",
+            "tooltipString": "email_me"
+          },
+          "locales": {
+            "fr": {
+              "title": "E-mail"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "faIcon": "fa-brands fa-linkedin",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": "vie LinkedIn",
+          "link": {
+            "href": "https://www.linkedin.com/in/vladimir-spirine-184069173/",
+            "tooltipString": "open_website"
+          },
+          "locales": {
+            "fr": {
+              "title": "LinkedIn"
+            },
+            "ko": {
+              "title": "링크드인"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "faIcon": "fa-brands fa-discord",
+          "faIconColors": {
+            "bg": "",
+            "fill": ""
+          },
+          "label": "via Discord",
+          "link": {
+            "href": "https://discord.gg/TQYNgcTb",
+            "tooltipString": "open_website"
+          },
+          "locales": {
+            "fr": {
+              "title": "Discord"
+            },
+            "ko": {
+              "title": "페이스북"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

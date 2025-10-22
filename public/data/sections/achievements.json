@@ -1,0 +1,188 @@
+{
+  "title": {
+    "locales": {
+      "fr": {
+        "title_short": "Réalis",
+        "title_short_nav": "Réalisations",
+        "title_long_prefix": "Voici",
+        "title_long": "Mes {{Réalisations}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleCards",
+      "locales": {
+        "fr": {
+          "title": "Certifications"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "https://images.credly.com/size/160x160/images/11a35743-6bcd-4406-83cd-bf74d1c8f646/image.png",
+          "faIcon": "fa-solid fa-life-ring",
+          "faIconColors": {
+            "bg": "#326CE5",
+            "fill": "#EEE"
+          },
+          "date": {
+            "year": 2025,
+            "month": 7
+          },
+          "link": {
+            "href": "https://www.credly.com/earner/earned/badge/a7c873f2-9eb6-4a05-b9e5-1b2faaf6763c",
+            "tooltipString": "see_certification"
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Cisco}}",
+              "text": "Engaging Stakeholders for Success"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png",
+          "faIcon": "fa-brands fa-aws",
+          "faIconColors": {
+            "bg": "#FFD700",
+            "fill": "#111"
+          },
+          "date": {
+            "year": 2025,
+            "month": 7
+          },
+          "link": {
+            "href": "https://www.credly.com/earner/earned/badge/437aeff3-eeca-4819-8345-7cc6e9ecf4f8",
+            "tooltipString": "see_certification"
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Cisco}}",
+              "text": "Introduction to Cybersecurity"
+            }
+          }
+        },
+        {
+          "id": 3,
+          "img": "https://images.credly.com/size/160x160/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png",
+          "faIcon": "fa-brands fa-java",
+          "faIconColors": {
+            "bg": "#007396",
+            "fill": "#EEE"
+          },
+          "date": {
+            "year": 2025,
+            "month": 7
+          },
+          "link": {
+            "href": "https://www.credly.com/earner/earned/badge/a707be29-5c1a-4e00-a4e2-99cc6b209a24",
+            "tooltipString": "see_certification"
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Cisco}}",
+              "text": "Introduction to IoT"
+            }
+          }
+        },
+        {
+          "id": 4,
+          "img": "https://images.credly.com/size/160x160/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png",
+          "faIcon": "fa-solid fa-database",
+          "faIconColors": {
+            "bg": "#47A248",
+            "fill": "#EEE"
+          },
+          "date": {
+            "year": 2025,
+            "month": 7
+          },
+          "link": {
+            "href": "https://www.credly.com/earner/earned/badge/eb90930e-ee6b-4335-b0f2-0a0e57598204",
+            "tooltipString": "see_certification"
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Cisco}}",
+              "text": "Networking Basics"
+            }
+          }
+        },
+        {
+          "id": 5,
+          "img": "https://images.credly.com/size/160x160/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png",
+          "faIcon": "fa-solid fa-database",
+          "faIconColors": {
+            "bg": "#47A248",
+            "fill": "#EEE"
+          },
+          "date": {
+            "year": 2025,
+            "month": 7
+          },
+          "link": {
+            "href": "https://www.credly.com/earner/earned/badge/cbe7143d-bfb6-4447-905c-abccbeeee9ba",
+            "tooltipString": "see_certification"
+          },
+          "locales": {
+            "fr": {
+              "title": "{{Cisco}}",
+              "text": "Python Essentials 1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleThread",
+      "locales": {
+        "fr": {
+          "title": "Récompenses"
+        }
+      },
+      "settings": {
+        "max_rows_collapse_threshold": 4,
+        "order_items_by": "date",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "date": {
+            "year": 2025,
+            "month": 9
+          },
+          "preview": {
+            "links": [
+              {
+                "href": "https://cyber.gouv.fr/actualites/rempar25-un-exercice-de-crise-cyber-dune-ampleur-inedite",
+                "tooltipString": "read",
+                "faIcon": "fa-solid fa-globe"
+              }
+            ],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "fr": {
+              "title": "{{REMPAR25}} - Cellule communication",
+              "province": "Agen",
+              "country": "France",
+              "institution": "Campus Ermitage",
+              "text": "Récompensé par un certificat de participation pour une performance exceptionnelle lors de l'exercice national de cybersecurité REMPAR25"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
