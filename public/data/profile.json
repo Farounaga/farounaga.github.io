@@ -1,56 +1,32 @@
 {
-    "name": "Vladimir Spirine",
-
-    "profilePictureUrl": "images/pictures/profile-picture.jpg",
-    "resumePdfUrl": "",
-
-    "statusCircleVisible": true,
-    "statusCircleVariant": "available",
-    "statusCircleHoverMessage": "status_message_available_for_freelance",
-
-    "locales": {
-        "en": {
-            "localized_name": "Vladimir Spirine",
-            "localized_name_stylized": " [[Vladimir {{Spirine}}]]",
-            "status_message_available_for_freelance": "Etudiant en BTS SIO!",
-            "roles": [
-                "Student",
-                "Aspiring Engineer",
-                "Junior Developer",
-                "Tech Enthusiast"
-            ],
-            "name_pronunciation_ipa": "/vla.dɪ.mir spi.ʁin/",
-            "name_pronunciation_audio_url": ""
-        },
-        "es": {
-            "status_message_available_for_freelance": "¡Disponible para freelance!",
-            "roles": [
-                "Estudiante",
-                "Aspirante a Ingeniero",
-                "Desarrollador Junior",
-                "Entusiasta de la Tecnología"
-            ]
-        },
-        "fr": {
-            "status_message_available_for_freelance": "Disponible pour freelance !",
-            "roles": [
-                "Étudiant",
-                "Développeur Junior",
-                "Passionné de technologie"
-            ]
-        },
-        "ko": {
-            "localized_name": "최민석",
-            "localized_name_stylized": "{{최}}민석",
-            "status_message_available_for_freelance": "프리랜스 가능합니다!",
-            "roles": [
-                "백엔드 개발자",
-                "프론트엔드 개발자",
-                "데브옵스 엔지니어",
-                "UX 디자이너"
-            ],
-            "name_pronunciation_ipa": "/chwe min-seok/",
-            "name_pronunciation_audio_url": "audio/korean-name-pronunciation.mp3"
-        }
+  "name": "Vladimir Spirine",
+  "profilePictureUrl": "images/pictures/profile-picture.jpg",
+  "resumePdfUrl": "",
+  "statusCircleVisible": true,
+  "statusCircleVariant": "available",
+  "statusCircleHoverMessage": "status_message_available_for_freelance",
+  "locales": {
+    "en": {
+      "localized_name": "Vladimir Spirine",
+      "localized_name_stylized": " [[Vladimir {{Spirine}}]]",
+      "status_message_available_for_freelance": "Etudiant en BTS SIO!",
+      "roles": [
+        "Student",
+        "Aspiring Engineer",
+        "Junior Developer",
+        "Tech Enthusiast"
+      ],
+      "name_pronunciation_ipa": "/vla.dɪ.mir spi.ʁin/",
+      "name_pronunciation_audio_url": ""
+    },
+    "fr": {
+      "status_message_available_for_freelance": "Disponible pour freelance !",
+      "roles": [
+        "Étudiant en BTS SIO",
+        "Développeur Junior",
+        "Passionné de technologie",
+        "Cyber-enthousiaste"
+      ]
     }
+  }
 }
