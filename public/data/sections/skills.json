@@ -2,8 +2,8 @@
   "title": {
     "locales": {
       "fr": {
-        "title_short": "Compétences",
-        "title_short_nav": "Compétences",
+        "title_short": "Capacités",
+        "title_short_nav": "Capacités",
         "title_long_prefix": "Explorez",
         "title_long": "Mes {{Compétences}}"
       }

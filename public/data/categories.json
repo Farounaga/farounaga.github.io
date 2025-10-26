@@ -39,12 +39,6 @@
                 "fr": {"title": "Plus"},
                 "ko": {"title": "더보기"}
             }
-        },
-                {
-            "id": "updates",
-            "categoryId": "more",
-            "jsonPath": "/data/sections/updates.json",
-            "faIcon": "fa-solid fa-rss"
         }
     ]
 }
