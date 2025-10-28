@@ -99,24 +99,27 @@
           },
           "locales": {
             "fr": {
-              "title": "{{BTS}} SIO",
+              "title": "{{BTS}} SIO – Option SLAM",
               "province": "Agen",
               "country": "France",
               "institution": "Campus Ermitage",
-              "text": "Actuellement en deuxième année, avec une spécialisation en [[Solutions Logicielles et Application Métier]] et ses applications concrètes, notamment dans :",
+              "text": "Le Campus Ermitage, situé à Agen (156 avenue Jean Jaurès), propose des formations post-bac dont le BTS Services Informatiques aux Organisations (SIO). Cette formation en alternance prépare aux métiers de l’informatique et permet d’acquérir une solide expérience professionnelle. L’option SLAM (Solutions Logicielles et Applications Métiers) se concentre sur le développement de logiciels, la programmation multilingue et la conception d’applications répondant aux besoins des entreprises. Le campus propose également d’autres spécialités comme les BTS SAM, PI et CJN.",
               "list": [
-                "Les bases de programmation multilingue",
-                "Travail avec les BDD",
-                "Le développement de [[solutions]] pour la resolution des problématiques envisagés"
+                "Bases de programmation multilingue",
+                "Travail avec les bases de données",
+                "Développement de [[solutions logicielles]] adaptées aux problématiques métiers"
               ],
               "tags": [
-                "BDD",
+                "BTS SIO",
+                "SLAM",
                 "Programmation",
-                "IA",
-                "Algorithmes"
+                "Bases de données",
+                "Développement",
+                "Alternance"
               ]
             }
           }
+
         }
       ]
     }
